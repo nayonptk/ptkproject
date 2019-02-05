@@ -1,0 +1,198 @@
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ .slicknav_menu{display: block;}
+.width {
+    width: 768px;
+    margin: 0 auto;
+    overflow: hidden;
+  padding-top: 15px;
+}
+.header-left {
+    display: block;
+    float: left;
+}
+.header-center {
+    display: block;
+    float: left;
+}
+.header-center-search-box {
+    margin-left: 0px;
+}
+
+
+
+.menu li {
+    border: 0px solid gray;
+}
+.header-center {
+    margin-right: 0;
+}
+#s {
+    width: 230px;
+}
+#searchsubmit {
+    width: 70px;
+}
+.header-left-hometext ul li {
+    margin-right: 0px;
+}
+.header-left-hometext {
+    margin-left: 2px;
+}
+.header-left-icon a i {
+    font-size: 40px;
+}
+.header-right {
+    text-align: left;
+}
+.title {
+    width: 320px;
+    margin: 0 auto;
+    text-align: center;
+}
+.title h2 {
+
+    font-size: 21px;
+}
+
+
+.marquee-title {
+    width: 88px;
+}
+.marquee-title h4 {
+    font-size: 13px;
+    margin-left: 7px;
+    padding: 12px 2px;
+}
+.marquee-start marquee li {
+    font-size: 12px;
+}
+.cuntry-one {
+    width: 100%;
+}
+.web-block-area {
+    display:block;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+.slicknav_menu{display: block;}
+.width {
+    width: 320px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.header-left {
+    display: block;
+    float: left;
+}
+.header-center {
+    display: block;
+    float: left;
+}
+.header-center-search-box {
+    margin-left: 0px;
+}
+
+
+
+.menu li {
+    border: 0px solid gray;
+}
+.header-center {
+    margin-right: 0;
+}
+#s {
+    width: 230px;
+}
+#searchsubmit {
+    width: 70px;
+}
+.header-left-hometext ul li {
+    margin-right: 18px;
+}
+.header-left-icon a i {
+    font-size: 40px;
+}
+.header-right {
+    text-align: left;
+}
+.title {
+    width: 320px;
+    margin: 0 auto;
+    text-align: center;
+}
+.title h2 {
+
+    font-size: 21px;
+}
+.menu-area {
+    display: none;
+}
+
+.marquee-title {
+    width: 88px;
+}
+.marquee-title h4 {
+    font-size: 13px;
+    margin-left: 7px;
+    padding: 12px 2px;
+}
+.marquee-start marquee li {
+    font-size: 12px;
+}
+.cuntry-one {
+    width: 100%;
+}
+.web-block-area {
+    display:block;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+
+}
+
